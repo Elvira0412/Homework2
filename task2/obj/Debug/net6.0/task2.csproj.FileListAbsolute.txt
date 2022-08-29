@@ -1,0 +1,15 @@
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\bin\Debug\net6.0\task2.exe
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\bin\Debug\net6.0\task2.deps.json
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\bin\Debug\net6.0\task2.dll
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\bin\Debug\net6.0\task2.pdb
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\obj\Debug\net6.0\task2.dll
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\obj\Debug\net6.0\refint\task2.dll
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\obj\Debug\net6.0\task2.pdb
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+D:\Эльвира\GeekBrains\Знакомство с #\Homework2\Home_work2\task2\obj\Debug\net6.0\ref\task2.dll
